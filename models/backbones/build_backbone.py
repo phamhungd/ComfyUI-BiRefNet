@@ -1,4 +1,4 @@
-import torch
+import torch, os
 import torch.nn as nn
 from collections import OrderedDict
 from torchvision.models import vgg16, vgg16_bn, VGG16_Weights, VGG16_BN_Weights, resnet50, ResNet50_Weights
